@@ -1,0 +1,1 @@
+# https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla
